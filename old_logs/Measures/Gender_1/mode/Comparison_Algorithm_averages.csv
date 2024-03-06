@@ -1,0 +1,5 @@
+number_of_trees,max_depth,min_number_of_values,threshold_percentage,attributes_percentage,mode,Female:Female,Female:Male,Male:Female,Male:Male
+200.0,50.0,10.0,0.45,0.75,0.0,1959.6,41.4,99.6,1900.4
+200.0,50.0,10.0,0.45,0.75,1.0,1959.6,41.4,103.0,1897.0
+200.0,50.0,10.0,0.45,0.75,2.0,1958.4,42.6,99.6,1900.4
+200.0,50.0,10.0,0.45,0.75,3.0,1956.4,44.6,100.2,1899.8
